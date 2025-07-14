@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Piyarat Upacheewa"
+    },
+    {
+      "id": "2",
+      "name": "Bob Johnson"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown"
+    },
+    {
+      "id": "4",
+      "name": "Diana Miller"
+    },
+    {
+      "id": "5",
+      "name": "Ethan Williams"
+    }
+  ],
+  "todos": [
+    {
+      "id": "2",
+      "text": "Fix UI bugs",
+      "date": "2025-07-14",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "done": false,
+      "userId": 1
+    },
+    {
+      "id": "4",
+      "text": "Review pull requests",
+      "date": "2025-07-14",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "done": false,
+      "userId": 3
+    },
+    {
+      "id": "5",
+      "text": "Team meeting",
+      "date": "2025-07-14",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "done": false,
+      "userId": 4
+    },
+    {
+      "id": "6",
+      "text": "Prepare demo",
+      "date": "2025-07-15",
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "done": true,
+      "userId": 5
+    },
+    {
+      "id": "7",
+      "text": "Test API integration",
+      "date": "2025-07-15",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "done": false,
+      "userId": 3
+    },
+    {
+      "id": "8",
+      "text": "Update deployment script",
+      "date": "2025-07-15",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "done": true,
+      "userId": 2
+    },
+    {
+      "id": "9",
+      "text": "Write unit tests",
+      "date": "2025-07-16",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "done": false,
+      "userId": 5
+    },
+    {
+      "id": "10",
+      "text": "Create presentation",
+      "date": "2025-07-16",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "done": true,
+      "userId": 1
+    },
+    {
+      "id": "1752417821241",
+      "text": "Study",
+      "date": "2025-07-14",
+      "startTime": "08:30",
+      "endTime": "11:00",
+      "done": false,
+      "userId": 1
+    }
+  ]
+}

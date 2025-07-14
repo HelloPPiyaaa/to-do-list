@@ -1,0 +1,77 @@
+.schedules-container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.schedules-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.breadcrumbs {
+  font-size: 14px;
+  color: gray;
+  margin-top: 5px;
+}
+
+.header-right select,
+.header-right input {
+  margin-right: 10px;
+  padding: 5px 8px;
+}
+
+.create-button {
+  background-color: #a78bfa;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.timeline {
+  position: relative;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+.timeline-hours {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #555;
+  padding-bottom: 10px;
+}
+
+.timeline-content {
+  position: relative;
+  height: 500px; /* รองรับหลายแถว */
+  border-top: 1px dashed #ddd;
+  margin-top: 10px;
+}
+
+.schedule-block {
+  position: absolute;
+  height: 70px;
+  padding: 10px;
+  border-radius: 10px;
+  color: #222;
+  font-size: 13px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.schedule-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.schedule-time {
+  font-size: 12px;
+  color: #444;
+}
+
+.participants span {
+  margin-right: 5px;
+}
